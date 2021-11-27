@@ -1,0 +1,28 @@
+<svg width="60" height="48" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" enable-background="new -4 -4 60 48" version="1.1">
+
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <circle id="svg_2" r="2" cy="-2" cx="-2" fill="#A0D58A"/>
+   <circle id="svg_3" r="2" cy="-2" cx="10" fill="#A0D58A"/>
+   <circle id="svg_4" r="2" cy="-2" cx="22" fill="#A0D58A"/>
+   <circle id="svg_5" r="2" cy="-2" cx="34" fill="#A0D58A"/>
+   <circle id="svg_6" r="2" cy="-2" cx="46" fill="#A0D58A"/>
+   <circle id="svg_7" r="2" cy="10" cx="-2" fill="#A0D58A"/>
+   <circle id="svg_8" r="2" cy="10" cx="10" fill="#A0D58A"/>
+   <circle id="svg_9" r="2" cy="10" cx="22" fill="#A0D58A"/>
+   <circle id="svg_10" r="2" cy="10" cx="34" fill="#A0D58A"/>
+   <circle id="svg_11" r="2" cy="10" cx="46" fill="#A0D58A"/>
+   <circle id="svg_12" r="2" cy="22" cx="-2" fill="#A0D58A"/>
+   <circle id="svg_13" r="2" cy="22" cx="10" fill="#A0D58A"/>
+   <circle id="svg_14" r="2" cy="22" cx="22" fill="#A0D58A"/>
+   <circle id="svg_15" r="2" cy="22" cx="34" fill="#A0D58A"/>
+   <circle id="svg_16" r="2" cy="22" cx="46" fill="#A0D58A"/>
+   <circle id="svg_17" r="2" cy="34" cx="-2" fill="#A0D58A"/>
+   <circle id="svg_18" r="2" cy="34" cx="10" fill="#A0D58A"/>
+   <circle id="svg_19" r="2" cy="34" cx="22" fill="#A0D58A"/>
+   <circle id="svg_20" r="2" cy="34" cx="34" fill="#A0D58A"/>
+   <circle id="svg_21" r="2" cy="34" cx="46" fill="#A0D58A"/>
+  </g>
+ </g>
+</svg>
