@@ -4779,6 +4779,11 @@ html.no-csstransitions .s-hero__content {
 /* ------------------------------------------------------------------- 
  * ## footer block
  * ------------------------------------------------------------------- */
+#whatsappicon1 {
+    padding-top: 8px;
+    font-size: 30px;
+}
+
 .s-footer__block {
     font-size: var(--text-lg);
     line-height: calc(1.25 * var(--space));
@@ -4916,6 +4921,11 @@ html.no-csstransitions .s-hero__content {
     visibility: visible;
     -webkit-transform: scale(1);
     transform: scale(1);
+}
+
+#whatsappicon {
+    font-size: 40px;
+    padding-top: 8px;
 }
 
 /* .smoothscroll {
