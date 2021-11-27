@@ -4792,7 +4792,7 @@ html.no-csstransitions .s-hero__content {
     content: "";
     height: 1px;
     width: 33.333%;
-    background-color: black;
+    background-color: var(--color-1);
     position: absolute;
     top: var(--vspace-0_25);
     left: var(--gutter-lg);
