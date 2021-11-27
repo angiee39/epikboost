@@ -4250,6 +4250,7 @@ html.no-csstransitions .s-hero__content {
 .folio-item {
     position: relative;
     overflow: hidden;
+    padding: 5px;
 }
 
 .folio-item__caption {
