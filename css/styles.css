@@ -3623,7 +3623,14 @@ input::-moz-focus-inner {
 /* ------------------------------------------------------------------- 
  * ## hero video
  * ------------------------------------------------------------------- */
-.s-hero__video {
+
+ @media screen and (max-width: 600px) {
+    .hero-video-new {
+        display: none;
+    }
+ }
+
+/* .s-hero__video {
     position: absolute;
     right: 10.4rem;
     bottom: 20vh;
@@ -3663,7 +3670,7 @@ input::-moz-focus-inner {
 
 .s-hero__video-text {
     display: none;
-}
+} */
 
 
 /* ------------------------------------------------------------------- 
